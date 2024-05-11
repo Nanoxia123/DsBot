@@ -2,4 +2,4 @@ a = "fgregret"
 
 b = "РАБОЧАЯ ВЕТКА"
 
-mjhgfcdx
+print(a,b)
