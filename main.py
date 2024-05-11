@@ -1,5 +1,4 @@
 a = "fgregret"
 
 b = "РАБОЧАЯ ВЕТКА"
-
-mjhgfcdx
+biba = 88
